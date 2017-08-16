@@ -1,4 +1,4 @@
-package com.chen.threadpool.threadpoolexecutor;
+package com.chen.threadpoolexecutor;
 
 /**
  * Created by chenyong on 2017-08-16.
